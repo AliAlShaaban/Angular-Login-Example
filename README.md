@@ -10,11 +10,11 @@
 
 
 
-#### 1.Download this github repo with : 
+#### 1. Download this github repo with : 
 
 ### git clone https://github.com/AliAlShaaban/Angular-Login-Example.git
 
-#### 2.Change Directory to the main folder : cd React-CRUD-Example
+#### 2. Change Directory to the main folder : cd Angular-Login-Example
 
 
 
